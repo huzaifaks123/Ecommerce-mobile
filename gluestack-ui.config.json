@@ -1,0 +1,9 @@
+{
+  "tailwind": {
+    "config": "tailwind.config.js"
+  },
+  "app": {
+    "entry": "app/_layout.tsx",
+    "components": "components/ui"
+  }
+}
